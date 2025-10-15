@@ -29,6 +29,10 @@ google
 gemini
 deepmind
 
+亚马逊
+Amazon
+贝索斯
+
 chatgpt
 openai
 sora
@@ -54,8 +58,13 @@ ai
 国务院
 
 美国
-日本
-韩国
+美联储
+降息
+
+稀土
+金
+银
+铜
 
 芯片
 光刻机
